@@ -5,7 +5,7 @@ A curated list of lunch specials and offerings near South Park in San Francisco'
 ## Current Lunch Offerings
 
 | Restaurant Name | Phone Number | Time Window of Special | Deal | Type of Cuisine |
-|----------------|--------------|----------------------|------|-----------------|
+|----------------|--------------|----------------------|------|------------------|
 | Brickhouse Cafe & Bar | (415) 369-0222 | Tue-Fri 10:00 AM - 4:00 PM | Happy Hour 3-6 PM daily with discounted drinks and appetizers | American/Bar Food |
 | Garaje | (415) 644-0838 | Mon-Fri 12:00 PM - 2:00 PM | Zapato lunch combo (burrito-style sandwich with side) $15-18 | Mexican-American Fusion |
 | South Beach Cafe | (415) 974-1115 | 8:00 AM - 3:00 PM | Daily lunch combo includes half sandwich & soup/salad $14.95 | Italian-American |
