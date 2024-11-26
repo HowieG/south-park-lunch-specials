@@ -21,6 +21,9 @@ A curated list of lunch specials and offerings near South Park in San Francisco'
 | Barcha | (415) 957-5463 | Mon-Fri 11:30 AM - 2:30 PM | Mediterranean lunch plates with sides $18 | Mediterranean |
 | MoMo's | (415) 227-8660 | Mon-Fri 11:30 AM - 3:00 PM | Business lunch: Entree + side $22 | American |
 | The One Restaurant & Bar | (415) 777-1338 | Mon-Fri 11:00 AM - 2:30 PM | Express lunch with soup/salad $16.95 | Asian Fusion |
+| CURRY & KABAB | (415) 757-0113 | Mon-Fri 11:00 AM - 3:00 PM | Indian lunch combos $16-19 with rice and naan | Indian |
+| North India | (415) 348-1234 | Mon-Fri 11:00 AM - 2:30 PM | Lunch buffet $18.95 with rotating selection | North Indian |
+| Chaat Corner | (415) 644-9225 | 11:00 AM - 3:00 PM | Daily thali special $15.95 | Indian Street Food |
 
 ## Notes
 - Prices and specials may vary; it's recommended to call ahead to confirm current offerings
